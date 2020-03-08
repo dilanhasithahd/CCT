@@ -1,1 +1,1 @@
-# CCT
+Code Complexity Tool
